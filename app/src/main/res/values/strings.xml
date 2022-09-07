@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CRUD Android</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="cadastro_produtos_label">Cadastro de Produtos</string>
+    <string name="cadastro_fornecedores_label">Cadastro de Fornecedores</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
